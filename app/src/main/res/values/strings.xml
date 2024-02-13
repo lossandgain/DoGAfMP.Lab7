@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="dialog_message">Hello</string>
+    <string name="yes">Apply</string>
+    <string name="no">Close</string>
+    <string name="kill">Shut down</string>
+</resources>
